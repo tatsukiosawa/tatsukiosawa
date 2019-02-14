@@ -5,13 +5,13 @@
 .SNS {
 color: red;
 padding-top: 100px;
-background-color: 
+
 background-image: :"https://github.com/tatsukiosawa/tatsukiosawa/blob/master/IMG-2357.jpg";
 
 }
 
-.background {
+body{
 
-background-image: "https://github.com/tatsukiosawa/tatsukiosawa/blob/master/IMG-2357.jpg"
+background-image:url("https://user-images.githubusercontent.com/47561627/52790268-7d38ee00-30a9-11e9-959a-75ae80800b7f.jpg");
 
-  background-color: red;}
+  }

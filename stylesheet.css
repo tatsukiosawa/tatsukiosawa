@@ -1,7 +1,58 @@
-.title {
-  color: #02ccba;
+@media screen and (max-width: 800px) {
+/* 480pxまでの幅の場合に適応される */
+    body {
+        font-size:15px;
+    }
+    
+    h2{
+        font-size:30px;
+        
+    }
+    h3{
+        font-size:20px;
+        
+    }
+    
 }
-.header{
-background-image: url("https://github.com/tatsukiosawa/tatsukiosawa/blob/master/IMG-9537.JPG");
-padding:100px 40px;
+
+
+
+.img-muni{
+  width:100%;
+ 
+  padding:0px 0px 30px 0px;
+  /*animation: fadeIn 5s ease 0.3s 1 normal;*/
+  
 }
+
+.main-contents{
+   text-align: center;
+   display: inline-block;
+   
+    
+}
+
+.about-muni{
+    padding:0px 0px 30px 0px;
+    
+    
+}
+
+body{
+   /* font-family:;*/
+    
+}
+h3{
+    padding:15px;
+    
+}
+
+/*
+@keyframes fadeIn { /*animetion-nameで設定した値を書く*/
+
+  /*0% {opacity: 0} /*アニメーション開始時は不透明度0%*/
+
+  /*100% {opacity: 1} /*アニメーション終了時は不透明度100%*/
+
+/*}
+*/
